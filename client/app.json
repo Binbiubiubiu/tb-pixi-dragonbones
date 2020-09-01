@@ -1,0 +1,15 @@
+{
+  "pages": [
+     "pages/base/index"
+   
+  
+     
+  ],
+  "window": {
+    "defaultTitle": "Todo App",
+    "enableSkia": "true"
+  },
+  "ext": {
+    "brandName": "测试会员"
+  }
+}

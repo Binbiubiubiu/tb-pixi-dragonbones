@@ -1,0 +1,9 @@
+{
+  "name": "ttttt",
+  "version": "0.0.1",
+  "description": "miniapp for taobao",
+  "dependencies": {
+    "@tbminiapp/pixi-miniprogram-engine": "^1.0.16",
+    "@types/pixi.js": "^4.8.8"
+  }
+}

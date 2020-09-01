@@ -1,0 +1,9 @@
+{
+  "cloud": {
+    "type": "CLOUDAPP"
+  },
+   "include": [
+    "**/assets/**/*.json"
+  ],
+  "component2": true
+}
